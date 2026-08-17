@@ -8,15 +8,6 @@ The system combines a realistic Nagpur traffic-risk simulation with a camera-vis
 
 > **Where is the risk, what is happening, why is it happening, what should authorities do next, and how should limited police resources be deployed?**
 >
-## 🚀 Live Demo
-
-Experience the **TriNetra AI Traffic Risk & Police Deployment Command Center** through the live web demo:
-
-### 🌐 [**Launch TriNetra Live Demo**](https://tri-netra-six.vercel.app/)
-
-🔗 **Live Demo:** https://tri-netra-six.vercel.app/
-
-> **Note:** The live demo is a prototype using simulated Nagpur traffic, officer, incident, and risk data. It is intended for demonstration and evaluation purposes and does not represent official live traffic or police data.
 
 
 ---
