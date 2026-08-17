@@ -8,7 +8,7 @@ The system combines a realistic Nagpur traffic-risk simulation with a camera-vis
 
 > **Where is the risk, what is happening, why is it happening, what should authorities do next, and how should limited police resources be deployed?**
 >
-> LIVE DEMO : tri-netra-six.vercel.app
+
 
 ---
 
