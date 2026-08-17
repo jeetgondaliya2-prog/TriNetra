@@ -7,6 +7,8 @@ TriNetra is an AI-powered **traffic intelligence, computer-vision, risk predicti
 The system combines a realistic Nagpur traffic-risk simulation with a camera-vision pipeline and a human-in-the-loop command dashboard. It is designed to move beyond a conventional traffic dashboard by answering:
 
 > **Where is the risk, what is happening, why is it happening, what should authorities do next, and how should limited police resources be deployed?**
+>
+> LIVE DEMO : tri-netra-six.vercel.app
 
 ---
 
